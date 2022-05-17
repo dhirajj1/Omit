@@ -13,15 +13,5 @@
  *= require_tree .
  *= require_self
  */
-
-#body {
-  background-color: #e7f5ff;
-}
-
-.coming {
-  padding-top: 35%;
-  padding-left: 0;
-  font-size: 70px;
-  font-weight: 700;
-  color: #1864ab;
-}
+ *= require coming_soon.css
+ 
